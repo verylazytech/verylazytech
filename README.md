@@ -1,4 +1,4 @@
-[!(https://cdn.buymeacoffee.com/uploads/cover_images/2024/09/VbC5KpLZxyPSdXglKOYG9DWCV6mR1VCRqqW2Jadx.jpg)]
+![VeryLazyTech](https://cdn.buymeacoffee.com/uploads/cover_images/2024/09/VbC5KpLZxyPSdXglKOYG9DWCV6mR1VCRqqW2Jadx.jpg)
 
 🛋️ Welcome to Very Lazy Tech! 🖥️
 
