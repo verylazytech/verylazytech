@@ -1,3 +1,5 @@
+[!(https://cdn.buymeacoffee.com/uploads/cover_images/2024/09/VbC5KpLZxyPSdXglKOYG9DWCV6mR1VCRqqW2Jadx.jpg)]
+
 🛋️ Welcome to Very Lazy Tech! 🖥️
 
 Hey, I'm Very Lazy Tech, your tech guide focused on simplicity. Join me as we navigate the world of tech with ease.
