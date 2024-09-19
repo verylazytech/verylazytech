@@ -13,6 +13,7 @@ Discover the latest gadgets, apps, and tech trends that simplify life. Let's aut
 🛋️ Let's Keep it Lazy:
 Sit back, relax, and navigate tech with me. Let's make our digital lives easier, one click at a time.
 
+
 [![My Shop](https://img.shields.io/badge/My%20Shop-verylazytech-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/verylazytech/extras)
 [![Medium](https://img.shields.io/badge/Medium-%40verylazytech-%231572B6?style=flat&logo=medium&logoColor=white)](https://medium.com/@verylazytech)
 [![Github](https://img.shields.io/badge/Github-verylazytech-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/verylazytech)
