@@ -13,7 +13,7 @@ Discover the latest gadgets, apps, and tech trends that simplify life. Let's aut
 🛋️ Let's Keep it Lazy:
 Sit back, relax, and navigate tech with me. Let's make our digital lives easier, one click at a time.
 
-
-📎 If you like my content and you want some more, [View On My Shop](https://buymeacoffee.com/verylazytech/e/258177) bundle of 20+ E-Books for your OSCP!
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/verylazytech)
+[![My Shop](https://img.shields.io/badge/My%20Shop-verylazytech-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/verylazytech/extras)
+[![Medium](https://img.shields.io/badge/Medium-%40verylazytech-%231572B6?style=flat&logo=medium&logoColor=white)](https://medium.com/@verylazytech)
+[![Github](https://img.shields.io/badge/Github-verylazytech-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/verylazytech)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-verylazytech-%23FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=yellow)](https://buymeacoffee.com/verylazytech)
