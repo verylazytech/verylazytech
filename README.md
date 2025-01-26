@@ -5,16 +5,19 @@
 Hey, I'm Very Lazy Tech, your laid-back guide to mastering ethical hacking and red teaming without the hassle. Let's explore cybersecurity the smart, simple way.
 
 👨‍💻 About Me
+
 I'm passionate about helping aspiring ethical hackers and red teamers sharpen their skills without feeling overwhelmed. Whether you're a beginner exploring cybersecurity or a pro looking for streamlined techniques, I've got your back.
 
 🔍 What to Expect
 
-Easy-to-follow guides on penetration testing and red team strategies.
-Tools, scripts, and resources for ethical hackers made simple.
-Real-world examples of exploiting vulnerabilities and patching them.
-Step-by-step breakdowns of hacking techniques (the ethical way, of course).
-Tips on automating tasks to save time during engagements.
+- Easy-to-follow guides on penetration testing and red team strategies.
+- Tools, scripts, and resources for ethical hackers made simple.
+- Real-world examples of exploiting vulnerabilities and patching them.
+- Step-by-step breakdowns of hacking techniques (the ethical way, of course).
+- Tips on automating tasks to save time during engagements.
+
 ⚔️ Red Team Mindset
+
 Think like a hacker, act like a pro. Learn to identify weaknesses and protect systems the ethical way.
 
 🛋️ Keep it Chill
